@@ -1,0 +1,186 @@
+{
+  "anjanadriWarriors": {
+    "teamName": "Anjanadri Warriors",
+    "players": [
+      {
+        "name": "Bheemanagowda S Patil",
+        "role": "Captain",
+        "playerImage": "/images/players/b.jpg"
+      },
+      {
+        "name": "Paramesha S U",
+        "role": "Vice Captain",
+        "playerImage": "/images/players/1.jpg"
+      },
+      {
+        "name": "Manju Kolur",
+        "role": "Mentor",
+        "playerImage": "/images/players/m.jpeg"
+      },
+      {
+        "name": "Parasuram S Kumbar",
+        "role": "Batsman",
+        "playerImage": "/"
+      },
+      {
+        "name": "Basavanth Meti",
+        "role": "Allrounder",
+        "playerImage": "/images/players/b.jpg"
+      },
+      {
+        "name": "Yamanoor Gowda A Goudar",
+        "role": "Allrounder",
+        "playerImage": "/images/players/9.jpg"
+      },
+      {
+        "name": "Nagalinga M Kumbar",
+        "role": "Allrounder",
+        "playerImage": "/images/players/b.jpg"
+      },
+      {
+        "name": "Hanumesha M Parangi",
+        "role": "Allrounder",
+        "playerImage": "/images/players/2.jpg"
+      },
+      {
+        "name": "Veeresh D Kumbar",
+        "role": "Batsman",
+        "playerImage": "/images/players/10.jpg"
+      },
+      {
+        "name": "Maruthi D Kumbar",
+        "role": "Batsman",
+        "playerImage": "/images/players/9.jpg"
+      },
+      {
+        "name": "Locanagowda R Patil",
+        "role": "Batsman",
+        "playerImage": "/images/players/b.jpg"
+      },
+      {
+        "name": "Manju O Meti",
+        "role": "Batsman",
+        "playerImage": "/images/players/4.jpg"
+      },
+      {
+        "name": "Maruthi H Parangi",
+        "role": "Batsman",
+        "playerImage": "/images/players/b.jpg"
+      },
+      {
+        "name": "Basavaraj S Meti",
+        "role": "Batsman",
+        "playerImage": "/images/players/3.jpg"
+      }
+    ]
+  },
+
+  "vanajabhaviWarriors": {
+    "teamName": "Vanajabhavi Warriors",
+    "players": [
+       {
+        "name": "Yamanoor M Meti",
+        "role": "Captain",
+        "playerImage": "/images/players/b.jpg"
+      },
+       {
+        "name": "Sharanu M Kumbar",
+        "role": "Vice Captain",
+        "playerImage": "/images/players/b.jpg"
+      }
+    ]
+  },
+
+  "vanajabhaviRulers": {
+    "teamName": "Vanajabhavi Rulers",
+    "players": [
+       {
+        "name": "Gurudev Y H",
+        "role": "Captain",
+        "playerImage": "/images/players/vr/5.jpg"
+      },
+       {
+        "name": "Ravi V Meti",
+        "role": "Vice Captain",
+        "playerImage": "/images/players/vr/13.jpg"
+      },
+        {
+        "name": "Maregouda A Goudar",
+        "role": "Mentor",
+        "playerImage": "/images/players/vr/9.jpg"
+      },
+    
+       {
+        "name": "Suresh K Kumbar ",
+        "role": "Allrounder",
+        "playerImage": "/images/players/vr/15.jpg"
+      },
+       {
+        "name": "Sharanu Tailor ",
+        "role": "Batsman",
+        "playerImage": "/images/players/vr/7.jpg"
+      },
+       {
+        "name": "Nagaraj H Goudar ",
+        "role": "wk",
+        "playerImage": "/images/players/vr/3.jpg"
+      },
+       {
+        "name": "Eshwar H Kumbar",
+        "role": "Allrounder",
+        "playerImage": "/images/players/vr/1.jpg"
+      },
+       {
+        "name": "Jagadeesh H Parangi",
+        "role": "Batsman",
+        "playerImage": "/images/players/vr/8.jpg"
+      },
+        {
+        "name": "Amaregowda Police Patil",
+        "role": "Batsman",
+        "playerImage": "/images/players/vr/4.jpg"
+      },
+       {
+        "name": "Sagar H Parangi",
+        "role": "Batsman",
+        "playerImage": "/images/players/vr/11.jpg"
+      },
+       {
+        "name": "Hanumesha Y Kumbar",
+        "role": " Bowler",
+        "playerImage": "/images/players/vr/2.jpg"
+      },
+       {
+        "name": "Veeresh P Kumbar",
+        "role": " Bowler",
+        "playerImage": "/images/players/vr/12.jpg"
+      },
+       {
+        "name": "Maruthi K Kumbar",
+        "role": " Bowler",
+        "playerImage": "/images/players/vr/10.jpg"
+      },
+      {
+        "name": "Yamanoor P Kumbar",
+        "role": " Fielder",
+        "playerImage": "/images/players/vr/16.jpg"
+      }
+    ]
+  },
+
+  "royalChallengersVanajabhavi": {
+    "teamName": "Royal Challengers Vanajabhavi",
+    "players": [
+      {
+        "name": "Gurudev Y H",
+        "role": "Captain",
+        "playerImage": "/images/players/b.jpg"
+      },
+       {
+        "name": "Lankesh H Marakatta",
+        "role": "Vice Captain",
+        "playerImage": "/images/players/b.jpg"
+      }
+    ]
+  }
+}
