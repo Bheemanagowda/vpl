@@ -6,11 +6,25 @@ const Gallery = () => {
     { img: "/images/gallery/1.jpeg" },
     { img: "/images/gallery/2.jpeg" },
   { img: "/images/gallery/3.jpeg" },
+  { img: "/images/gallery/4.jpeg" },
+   { img: "/images/gallery/5.jpeg" },
+     { img: "/images/gallery/6.jpeg" },
   
    
     { img: "/images/gallery/7.jpeg" },
     { img: "/images/gallery/8.jpeg" },
     { img: "/images/gallery/9.jpeg" },
+    
+         { img: "/images/gallery/11.jpg" },
+           { img: "/images/gallery/12.jpg" },
+            { img: "/images/gallery/13.jpg" },
+             { img: "/images/gallery/14.jpg" },
+              { img: "/images/gallery/15.jpg" },
+              { img: "/images/gallery/16.jpg" },
+              { img: "/images/gallery/17.jpg" },
+               { img: "/images/gallery/18.jpg" },
+                 { img: "/images/gallery/19.jpg" },
+                  { img: "/images/gallery/20.jpg" },
   ];
 
   return (

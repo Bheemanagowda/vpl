@@ -16,7 +16,7 @@ const Navbar = () => {
         { menu: "Anjanadri Warriors", link: "/teams/anjanadriWarriors" },
         { menu: "Vanajabhavi Rulers", link: "/teams/vanajabhaviRulers" },
         { menu: "Royale Challengers Vanajabhavi", link: "/royale-challengers-vanajabhavi" },
-        { menu: "Vanajabhavi Warriors", link: "/vanajabhavi-warriors" },
+        { menu: "Vanajabhavi Warriors", link: "/teams/vanajabhaviWarriors" },
       ],
     },
 { menu: "Event Organizers", link: "/event-organizers" },
@@ -65,7 +65,7 @@ const Navbar = () => {
 
                 {/* Desktop Submenu */}
                 {item.subMenu && (
-                  <ul className="absolute left-0 top-12 bg-white text-black w-56 shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                  <ul className="absolute left-0 top-12 bg-white text-black w-56 shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                     {item.subMenu.map((sub, i) => (
                       <li key={i} className="px-4 py-2 hover:bg-gray-200">
                         <a href={sub.link}>{sub.menu}</a>

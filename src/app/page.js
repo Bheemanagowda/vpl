@@ -12,13 +12,7 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-black">
-        <TopBar />
-
-      {/* Top Announcement Bar */}
-  
-
-      {/* Navigation */}
-      <Navbar />
+    
 
       {/* Main Content */}
       <main className="w-full">
@@ -33,7 +27,7 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <Footer />
+     
 
     </div>
   );

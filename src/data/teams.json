@@ -81,12 +81,54 @@
        {
         "name": "Yamanoor M Meti",
         "role": "Captain",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/vw/2.jpg"
       },
        {
         "name": "Sharanu M Kumbar",
         "role": "Vice Captain",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/vw/3.jpg"
+      },
+       {
+        "name": "Sharanu H Gowdar",
+        "role": "Mentor",
+        "playerImage": "/images/players/vw/12.jpg"
+      },
+       {
+        "name": "Prakash N Parangi",
+        "role": "Wk",
+        "playerImage": "/images/players/vw/1.jpg"
+      },
+       {
+        "name": "Manju kumbar",
+        "role": "Allrounder",
+        "playerImage": "/images/players/vw/7.jpg"
+      },
+       {
+        "name": "Manju kumbar",
+        "role": "Batsman",
+        "playerImage": "/images/players/vw/6.jpg"
+      },
+       {
+        "name": "Basu K kumbar",
+        "role": "Batsman",
+        "playerImage": "/images/players/vw/8.jpg"
+      }
+      ,
+     
+      {
+        "name": "Prakash H kumbar",
+        "role": "Batsman",
+        "playerImage": "/images/players/vw/4.jpg"
+      },
+       {
+        "name": "Akash Gowda P Police Patil",
+        "role": "Batsman",
+        "playerImage": "/images/players/vw/4.jpg"
+      },
+       {
+        "name": "Prasad",
+        "role": "Batsman",
+        "playerImage": "/images/players/vw/5.jpg"
       }
     ]
   },
