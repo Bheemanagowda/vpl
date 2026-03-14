@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { FaAngleDown, FaBars, FaTimes } from "react-icons/fa";
+import Link from "next/link";
 
 const Navbar = () => {
   const [mobile, setMobile] = useState(false);
@@ -19,10 +20,10 @@ const Navbar = () => {
         { menu: "Vanajabhavi Warriors", link: "/teams/vanajabhaviWarriors" },
       ],
     },
-{ menu: "Event Organizers", link: "/event-organizers" },
+{ menu: "Champions Teams", link: "/champions" },
 { menu: "Donors", link: "/donors" },
     { menu: "Gallery", link: "/gallery" },
-     { menu: "Contact Us", link: "/Contact Us" },
+     { menu: "Contact Us", link: "/contact" },
     
   ];
 
@@ -36,16 +37,20 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           {/* Logo */}
           <div className="text-white text-2xl font-bold">
-        <img
-  src="/images/vpl-logo.png"
-  alt="Vanajabhavi Premier League Logo"
-  className="w-full h-[150px]"
-/>
+ <div className="text-white text-2xl font-bold">
+        <Link href="/">
+          <img
+            src="/images/vpl-logo.png"
+            alt="Vanajabhavi Premier League Logo"
+            className="h-12 w-auto sm:h-16 md:h-24 lg:h-32 mx-auto"
+          />
+        </Link>
+      </div>
           </div>
 
           {/* Hamburger Button - Mobile */}
           <div
-            className="md:hidden text-white text-2xl cursor-pointer"
+            className="md:hidden text-black text-2xl cursor-pointer px-4"
             onClick={() => setMobile(!mobile)}
           >
             {mobile ? <FaTimes /> : <FaBars />}
