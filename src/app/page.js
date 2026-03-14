@@ -22,7 +22,7 @@ export default function Home() {
         <SubInfo />
         <CricketPoster />
         <WhyVPL />
-        <Gallery />
+        <Gallery limit={9}/>
           
       </main>
 
