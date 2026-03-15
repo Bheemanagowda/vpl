@@ -16,7 +16,7 @@ const Navbar = () => {
       subMenu: [
         { menu: "Anjanadri Warriors", link: "/teams/anjanadriWarriors" },
         { menu: "Vanajabhavi Rulers", link: "/teams/vanajabhaviRulers" },
-        { menu: "Royale Challengers Vanajabhavi", link: "/royale-challengers-vanajabhavi" },
+        { menu: "Royale Challengers Vanajabhavi", link: "/teams/royalChallengersVanajabhavi" },
         { menu: "Vanajabhavi Warriors", link: "/teams/vanajabhaviWarriors" },
       ],
     },

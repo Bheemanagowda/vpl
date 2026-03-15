@@ -20,22 +20,22 @@
       {
         "name": "Parasuram S Kumbar",
         "role": "Batsman",
-        "playerImage": "/"
+        "playerImage": "/images/players/p.jpg"
       },
       {
         "name": "Basavanth Meti",
         "role": "Allrounder",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/6.jpg"
       },
       {
         "name": "Yamanoor Gowda A Goudar",
         "role": "Allrounder",
-        "playerImage": "/images/players/9.jpg"
+        "playerImage": "/images/players/7.jpg"
       },
       {
         "name": "Nagalinga M Kumbar",
         "role": "Allrounder",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/n.jpg"
       },
       {
         "name": "Hanumesha M Parangi",
@@ -53,7 +53,7 @@
         "playerImage": "/images/players/9.jpg"
       },
       {
-        "name": "Locanagowda R Patil",
+        "name": "Lokanagaowda R Police Patil",
         "role": "Batsman",
         "playerImage": "/images/players/b.jpg"
       },
@@ -211,17 +211,56 @@
   },
 
   "royalChallengersVanajabhavi": {
-    "teamName": "Royal Challengers Vanajabhavi",
+    "teamName": "Royal CHallangers Vanajabhavi",
     "players": [
       {
-        "name": "Gurudev Y H",
+        "name": "Veeresh S Kumbar",
         "role": "Captain",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/rvc/1.jpg"
       },
        {
         "name": "Lankesh H Marakatta",
         "role": "Vice Captain",
-        "playerImage": "/images/players/b.jpg"
+        "playerImage": "/images/players/rvc/4.jpg"
+      },
+        {
+        "name": "Suresha B Meti",
+        "role": "Mentor",
+        "playerImage": "/images/players/rvc/2.jpg"
+      },
+        {
+        "name": "Parasuram S Meti",
+        "role": "Batter",
+        "playerImage": "/images/players/rvc/7.jpg"
+      },
+       {
+        "name": "Somu D Kumbar",
+        "role": "Team best  supporter",
+        "playerImage": "/images/players/rvc/8.jpg"
+      },
+       {
+        "name": "Amaregouda H Goudar",
+        "role": "Team best  supporter",
+        "playerImage": "/images/players/rvc/9.jpg"
+      },
+      
+       {
+        "name": "Sharanabasava S Deval",
+        "role": "Allrounder",
+        "playerImage": "/images/players/rvc/10.jpg"
+      },
+       {
+        "name": "Kudleppa C Gondi",
+        "role": "Hard Hitter",
+        "playerImage": "/images/players/rvc/11.jpg"
+      },  {
+        "name": "Maruthi D Talvar",
+        "role": "Batter",
+        "playerImage": "/images/players/rvc/12.jpg"
+      },{
+        "name": "Giriraj G Parangi",
+        "role": "Batter",
+        "playerImage": "/images/players/rvc/13.jpg"
       }
     ]
   }

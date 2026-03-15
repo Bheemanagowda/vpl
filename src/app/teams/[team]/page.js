@@ -1,12 +1,12 @@
 "use client";
 
-import { use } from "react";
+import React, { use } from "react";
 import Teams from "@/data/teams.json";
 import Heading from "@/components/Heading";
 
 export default function Page({ params }) {
 
-  const { team } = use(params);   // unwrap params
+  const { team } = use(params);   // ✅ unwrap params correctly
 
   const teamData = Teams[team];
 
@@ -21,12 +21,14 @@ export default function Page({ params }) {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100"> {/* Full page background */}
-
+    <div className="min-h-screen bg-gray-100">
       <div className="max-w-7xl mx-auto px-4 py-10">
-        
-        
-         <Heading title={teamData.teamName} className="text-center" className1="mx-auto" />
+
+        <Heading
+          title={teamData.teamName}
+          className="text-center"
+          className1="mx-auto"
+        />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {teamData.players.map((player, index) => (
@@ -37,17 +39,21 @@ export default function Page({ params }) {
               <img
                 src={player.playerImage}
                 alt={player.name}
-                className="w-100 h-100 mx-auto rounded-full mb-4 object-cover"
+                className="w-full h-120 mx-auto rounded-full mb-4 object-cover"
               />
 
-              <h3 className="text-black font-semibold">{player.name}</h3>
+              <h3 className="text-black font-semibold">
+                {player.name}
+              </h3>
 
-              <p className="text-gray-900">{player.role}</p>
+              <p className="text-gray-900">
+                {player.role}
+              </p>
             </div>
           ))}
         </div>
-      </div>
 
+      </div>
     </div>
   );
 }

@@ -1,17 +1,17 @@
 [
   {
-    "donarImage": "/images/donars/1.jpg",
+    "donarImage": "/images/players/kit.jpg",
     "name": "Sri Bharath Ramegowda",
     "donated": "Cricket Kit"
   },
   {
-    "donarImage": "/images/donars/1.jpg",
+    "donarImage": "/images/players/rudrappa.jpg",
     "name": "Sri Rudrappa H Marakatta",
     "donated": "₹11,001"
   },
   {
-    "donarImage": "/images/donars/2.jpg",
-    "name": "Sri Parasuram S Kumbar",
+    "donarImage": "/images/players/p.jpg",
+    "name": "Sri Parasuram S Kumbar (Forest Officer)",
     "donated": "₹5,001"
   },
   {
@@ -25,7 +25,7 @@
     "donated": "Mementos"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/rvc/6.jpg",
     "name": "Mr. Maruthi D Talavar",
     "donated": "Medals"
   },
@@ -65,17 +65,17 @@
     "donated": "One Dozen Balls"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/amaresha.jpg",
     "name": "Sri Aamaresh Goudru, Hotel",
     "donated": "Honorary Shawls"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/rvc/4.jpg",
     "name": "Sri Lankesh H Marakatta",
     "donated": "Honorary Shawls"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/sn.jpg",
     "name": "Sri Shivasharanappa N Nidasheshi",
     "donated": "One Rice Bag"
   },
@@ -100,17 +100,17 @@
     "donated": "Spices and Vegetables"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/rvc/7.jpg",
     "name": "Sri Parasuram S Meti",
     "donated": "₹2,501"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/kk.jpg",
     "name": "Sri Kalakappa Kumbar, Menedhal",
     "donated": "₹1,001"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/nagaraj.jpg",
     "name": "Sri Nagaraj Patagar, Teacher",
     "donated": "₹1,001"
   },
@@ -130,7 +130,7 @@
     "donated": "₹501"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/d.jpg",
     "name": "Sri Yamanoor D Goudar",
     "donated": "₹501"
   }
