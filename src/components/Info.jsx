@@ -19,8 +19,8 @@ const Info = () => {
     {
       icon: <IoCallSharp className="text-green-600 w-8 h-8" />,
       title: "Call Us",
-      detail: "+91 XXXXX XXXXX",
-      link: "tel:+91XXXXXXXXXX",
+      detail: "+91 9110460518",
+      link: "tel:+9110460518",
     },
   ];
 
