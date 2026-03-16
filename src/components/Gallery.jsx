@@ -4,6 +4,16 @@ import Heading from "./Heading";
 const Gallery = ({ limit }) => {
 
   const pictures = [
+     { img: "/images/gallery/26.jpg" },
+        { img: "/images/gallery/27.jpg" },
+            { img: "/images/gallery/28.jpg" },
+                   { img: "/images/gallery/29.jpg" },
+                          { img: "/images/gallery/30.jpg" },
+                              { img: "/images/gallery/31.jpg" },
+                               { img: "/images/gallery/32.jpg" },
+      { img: "/images/gallery/23.jpg" },
+      { img: "/images/gallery/24.jpg" },
+       { img: "/images/gallery/25.jpg" },
     { img: "/images/gallery/1.jpeg" },
     { img: "/images/gallery/2.jpeg" },
     { img: "/images/gallery/3.jpeg" },
@@ -23,6 +33,7 @@ const Gallery = ({ limit }) => {
     { img: "/images/gallery/18.jpg" },
     { img: "/images/gallery/19.jpg" },
     { img: "/images/gallery/20.jpg" },
+   
   ];
 
   const galleryImages = limit ? pictures.slice(0, limit) : pictures;

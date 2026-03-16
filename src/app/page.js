@@ -1,5 +1,4 @@
-import TopBar from "@/components/TopBar";
-import Navbar from "@/components/Navbar";
+
 import BannerSlider from "@/components/BannerSlider";
 import Comany from "@/components/Comany";
 import Teams from "@/components/Teams";
@@ -8,6 +7,7 @@ import CricketPoster from "@/components/CricketPoster";
 import WhyVPL from "@/components/WhyVPL";
 import Gallery from "@/components/Gallery";
 import Footer from "@/components/Footer";
+import Video from "@/components/Video";
 
 export default function Home() {
   return (
@@ -22,6 +22,7 @@ export default function Home() {
         <SubInfo />
         <CricketPoster />
         <WhyVPL />
+        <Video/>
         <Gallery limit={9}/>
           
       </main>

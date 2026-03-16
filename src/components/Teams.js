@@ -1,23 +1,28 @@
 import React from "react";
 import Heading from "./Heading";
+import Link from "next/link";
 
 const Teams = () => {
   const teams = [
     {
-      img: "/images/teams/aw.png",
+      img: "/images/teams/aw1.png",
       title: "Anjanadri Warriors",
+      link:"/teams/anjanadriWarriors"
     },
     {
       img: "/images/teams/vw-logo.png",
       title: "Vanajabhavi Warriors",
+      link:"/teams/vanajabhaviWarriors"
     },
     {
       img: "/images/teams/vr.png",
       title: "Vanajabhavi Rulers",
+      link:"/teams/vanajabhaviRulers"
     },
     {
       img: "/images/teams/rcv1.png",
       title: "Royal Challengers Vanajabhavi",
+      link:"/teams/royalChallengersVanajabhavi"
     },
   ];
 
@@ -41,9 +46,9 @@ const Teams = () => {
                 className="w-40 h-40 object-contain mx-auto mb-4"
               />
 
-              <h4 className="text-lg font-semibold text-black">
+            <Link href={item.link}>  <h4 className="text-lg font-semibold text-black">
                 {item.title}
-              </h4>
+              </h4></Link>
             </div>
           ))}
         </div>

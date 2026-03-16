@@ -15,7 +15,7 @@
     "donated": "₹5,001"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/pa.png",
     "name": "Sri Parasuram A Goudar",
     "donated": "Trophies"
   },
@@ -45,12 +45,12 @@
     "donated": "Pandal + Mic Systems"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/pv.jpg",
     "name": "Mr. Pampapathi V Kumabr",
     "donated": "Printing Plates"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/ng.jpg",
     "name": "Mr. Lingraj Y U, Gule",
     "donated": "Caps for Players"
   },
@@ -60,7 +60,7 @@
     "donated": "Caps for Players"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/sb.jpg",
     "name": "Sri Sharana Basaveshwara Cricket Club, Markatta",
     "donated": "One Dozen Balls"
   },
@@ -80,7 +80,7 @@
     "donated": "One Rice Bag"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/g.jpg",
     "name": "Sri GiriMallappa Parangi",
     "donated": "One Rice Bag"
   },
@@ -95,7 +95,7 @@
     "donated": "Butter"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/pk.jpg",
     "name": "Sri Parasappa Kumbar",
     "donated": "Spices and Vegetables"
   },
@@ -115,17 +115,22 @@
     "donated": "₹1,001"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/c.jpg",
     "name": "Mr. Chandalingappa A Kolur",
     "donated": "₹1,001"
   },
+   {
+    "donarImage": "/images/players/pp.jpg",
+    "name": "Sri Prakash Mali Patil (Police),Marakatta ",
+    "donated": "₹1,001"
+  },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/cd.jpg",
     "name": "Sri Channabasava D Kumbar",
     "donated": "₹501"
   },
   {
-    "donarImage": "/images/donars/3.jpg",
+    "donarImage": "/images/players/vh.jpg",
     "name": "Sri Veeresha H Kumbar",
     "donated": "₹501"
   },

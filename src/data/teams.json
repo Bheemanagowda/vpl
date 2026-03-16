@@ -1,5 +1,14 @@
 {
   "anjanadriWarriors": {
+    "teamOwner":[
+     {
+       "ownerName" :"Hanamantahappa B Meti",
+      "owenerImage":"/images/owners/aw1.png",
+      "desc":"Anjanadri Warriors is a passionate cricket team known for its strength, unity, and fighting spirit. With talented players and strong teamwork, the team aims to deliver exciting performances and bring pride to their supporters in every match.Anjanadri Warriors represents determination, discipline, and true sportsmanship. The team is committed to playing fearless cricket, supporting each other on and off the field, and creating memorable moments for fans. With passion and hard work, Anjanadri Warriors continues to grow stronger every season.",
+      "teamTitle":"Anjanadri Warriors",
+      "tagLine":"Strength, Unity & Victory"
+     }
+    ],
     "teamName": "Anjanadri Warriors",
     "players": [
       {
@@ -76,6 +85,15 @@
   },
 
   "vanajabhaviWarriors": {
+      "teamOwner":[
+     {
+       "ownerName" :"Mass Manju N Meti",
+      "owenerImage":"/images/owners/3.png",
+      "desc":"Vanajabhavi Warriors is a powerful and dedicated cricket team that represents the spirit and pride of Vanajabhavi. With talented players, strong teamwork, and a passion for the game, the team strives to deliver exciting performances and achieve victory in every match.Vanajabhavi Warriors is known for its fighting spirit and never-give-up attitude on the field. The team combines young talent and experience, working together with dedication and discipline. With strong support from fans and the community, Vanajabhavi Warriors continues to chase success and create proud moments in every tournament. 🏏🔥",
+      "teamTitle":"Vanajabhavi Warriors",
+      "tagLine":"Fearless on the Field"
+     }
+    ],
     "teamName": "Vanajabhavi Warriors",
     "players": [
        {
@@ -134,6 +152,15 @@
   },
 
   "vanajabhaviRulers": {
+           "teamOwner":[
+     {
+       "ownerName" :"Bheemanagowda D Goudar",
+      "owenerImage":"/images/owners/4.png",
+      "desc":"Vanajabhavi Rulers is a strong and determined cricket team known for its leadership, skill, and winning spirit. The team plays with confidence and unity, always aiming to dominate the field and deliver exciting performances for their supporters.,Vanajabhavi Rulers continues to grow as a team built on dedication, strategy, and strong leadership. With the support of passionate fans and a commitment to excellence, the team aims to dominate every match and uphold the pride of Vanajabhavi in the league. 🏏👑🔥",
+      "teamTitle":"Vanajabhavi Rulers",
+      "tagLine":"Rule the Game, Rule the Glory."
+     }
+    ],
     "teamName": "Vanajabhavi Rulers",
     "players": [
        {
@@ -211,6 +238,15 @@
   },
 
   "royalChallengersVanajabhavi": {
+          "teamOwner":[
+     {
+       "ownerName" :"Veeresh K Kumbar",
+      "owenerImage":"/images/owners/2.png",
+      "desc":"Royal Challengers Vanajabhavi is a fearless and energetic cricket team known for its passion and competitive spirit. With skilled players and strong teamwork, the team plays with determination to achieve victory and deliver thrilling performances on the field.Royal Challengers Vanajabhavi is built on the spirit of courage, teamwork, and determination. The team plays every match with confidence and a winning mindset, aiming to entertain fans and bring glory to Vanajabhavi through their passion and dedication to the game. 🏏🔥👑",
+      "teamTitle":"Royal Challengers Vanajabhavi",
+      "tagLine":"Challenge the Best, Rule the Game."
+     }
+    ],
     "teamName": "Royal CHallangers Vanajabhavi",
     "players": [
       {
