@@ -61,7 +61,7 @@ export default function Page({ params }) {
       <img
         src={owner.owenerImage}
         alt={owner.ownerName}
-        className="w-full h-130 object-cover rounded-xl"
+        className="w-full h-[250px] md:h-[500px] object-cover rounded-xl"
       />
     </div>
   </div>
