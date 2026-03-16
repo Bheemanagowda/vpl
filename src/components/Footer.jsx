@@ -1,5 +1,6 @@
 import React from "react";
 import { FaFacebookF, FaInstagram, FaYoutube, FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -23,11 +24,11 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-semibold mb-4">Quick Links</h2>
           <ul className="space-y-2 text-gray-300">
-            <li className="hover:text-orange-400 cursor-pointer">Home</li>
-            <li className="hover:text-orange-400 cursor-pointer">About</li>
-            <li className="hover:text-orange-400 cursor-pointer">Teams</li>
-            <li className="hover:text-orange-400 cursor-pointer">Gallery</li>
-            <li className="hover:text-orange-400 cursor-pointer">Contact</li>
+          <Link href="/">  <li className="hover:text-orange-400 cursor-pointer">Home</li></Link>
+               <Link href="/about-us">  <li className="hover:text-orange-400 cursor-pointer">About</li></Link>
+            <Link href="/teams/anjanadriWarriors"><li className="hover:text-orange-400 cursor-pointer">Teams</li></Link>
+             <Link href="/gallery"><li className="hover:text-orange-400 cursor-pointer">Gallery</li></Link>
+             <Link href="/contact"><li className="hover:text-orange-400 cursor-pointer">Contact</li></Link>
           </ul>
         </div>
 
